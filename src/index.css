@@ -14,11 +14,7 @@ nav {
   padding: 0 1em;
 }
 
-h1 {
-  color: #fff;
-}
-
-ul {
+nav ul {
   display: flex;
   list-style: none;
   gap: 2em;
