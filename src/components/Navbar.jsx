@@ -12,6 +12,9 @@ const Navbar = () => {
         <li>
           <Link to="/cat-fact">Cat Fact</Link>
         </li>
+        <li>
+          <Link to="/dad-jokes">Dad Jokes</Link>
+        </li>
       </ul>
     </nav>
   );
