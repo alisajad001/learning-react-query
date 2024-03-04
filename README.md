@@ -10,3 +10,5 @@ React Query is a popular library for fetching data in React applications.
 - Create a React component that uses React Query to fetch data
 
 Just learning React Query.
+
+Coded by Ali Sajad
